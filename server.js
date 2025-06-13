@@ -1,3 +1,4 @@
+// این تغییر ایجاد گردید
 /** ***************************************
 Delaford
 a fun medieval 2d javascript rpg
